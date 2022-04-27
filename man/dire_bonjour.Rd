@@ -15,3 +15,8 @@ string with embedded prenom
 \description{
 Function to say hello based on name provided as input
 }
+\examples{
+\dontrun{
+  dire_bonjour("Jean")
+}
+}

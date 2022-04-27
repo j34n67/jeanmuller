@@ -8,6 +8,9 @@
 #' @export
 #'
 #' @examples
+#' \dontrun{
+#'   dire_bonjour("Jean")
+#' }
 dire_bonjour<-function(prenom){
 
   #Bulletproofing ----
